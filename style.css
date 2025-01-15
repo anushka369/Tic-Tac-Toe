@@ -1,0 +1,115 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background-color: #ffe8e8;
+    text-align: center;
+}
+
+h1
+{
+    color: #faaaaa;
+    text-align: center;
+    padding: 5vmin;
+    font-family: "Cookie", serif;
+    font-weight: 500;
+    font-size: 10vmin;
+    font-style: normal;
+}
+
+.box
+{
+    height: 15vmin;
+    width: 15vmin;
+    border-radius: 1rem;
+    background-color: #ffd4d4;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid #ffb3b3;
+    font-size: 5vmin;
+    color: #ffffff;
+    font-family: 'Verdana', sans-serif;
+}
+
+.container
+{
+    height: 60vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game
+{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 3vmin;
+    background-color: #fff2f2;
+    border-radius: 1rem;
+}
+
+#reset-btn
+{
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #ff9e9e;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+    font-family: 'Tahoma', sans-serif;
+    margin-top: 2rem;
+}
+
+#reset-btn:hover
+{
+    background-color: #ff7a7a;
+}
+
+#new-btn
+{
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #ff9e9e;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+    font-family: 'Tahoma', sans-serif;
+}
+
+#new-btn:hover
+{
+    background-color: #ff7a7a;
+}
+
+#msg
+{
+    color: #f8a2a2;
+    font-size: 10vmin;
+    font-family: "Cookie", serif;
+    font-weight: 500;
+    font-style: normal;    
+    text-shadow: 1px 1px 3px #ffdada;
+}
+
+.msg-container
+{
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+.hide
+{
+    display: none;
+}
