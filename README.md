@@ -25,6 +25,7 @@ A simple **Tic Tac Toe** game designed with a **pastel pink** theme. It’s a tw
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/tic-tac-toe-game.git
+   
 2. Open index.html in your browser to play the game. 🌐
 
 3. Enjoy playing and challenge your friends! 🎉
@@ -33,11 +34,17 @@ A simple **Tic Tac Toe** game designed with a **pastel pink** theme. It’s a tw
 
 ## Files in the Repository 📂
 
-1. index.html: Structure and layout of the Tic Tac Toe game.
-2. style.css: Styling for the pastel theme and typography.
-3. script.js: Game logic and interactivity.
+1. **index.html:** Structure and layout of the Tic Tac Toe game.
+2. **style.css:** Styling for the pastel theme and typography.
+3. **script.js:** Game logic and interactivity.
 
 --- 
 
 ## Customization 🛠️
-Feel free to modify the colors, font sizes, and grid layout by editing the style.css file. You can also update the game logic if you want to add new features or change the rules.
+Feel free to modify the colors, font sizes, and grid layout by editing the style.css file. You can also update the game logic if you want to add new features or change the rules. This project is open-source and free to use for educational purposes.
+
+---
+
+## Author ✏️
+Developed by **Anushka**. <br>
+📧 [ab8991@srmist.edu.in](mailto:ab8991@srmist.edu.in)
